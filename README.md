@@ -1,2 +1,2 @@
 # MauticStripe
-Mautic Plugin to Integrate Mautic and CoreBos
+Mautic Plugin to Integrate Mautic and Stripe Platform
